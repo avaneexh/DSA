@@ -3,7 +3,7 @@
 using namespace std;
 
 void moveZeroToEnd(int arr[], int n ){
-    
+    int i=0
 }
 
 int main(){
