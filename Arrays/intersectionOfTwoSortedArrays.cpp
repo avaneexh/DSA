@@ -17,7 +17,7 @@ int main() {
     int i = 0;
     int j = 0;
 
-    while(i<n && j<m){
+    while (i < m && j < n){
         if(arr1[i] < arr2[j]){
             i++;
         }else if (arr2[j] < arr1[i]){
